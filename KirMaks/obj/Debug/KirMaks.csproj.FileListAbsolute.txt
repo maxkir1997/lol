@@ -1,0 +1,9 @@
+C:\temp\test\maxkir\KirMaks\bin\Debug\KirMaks.exe.config
+C:\temp\test\maxkir\KirMaks\obj\Debug\KirMaks.csprojResolveAssemblyReference.cache
+C:\temp\test\maxkir\KirMaks\obj\Debug\KirMaks.Properties.Resources.resources
+C:\temp\test\maxkir\KirMaks\obj\Debug\KirMaks.csproj.GenerateResource.Cache
+C:\temp\test\maxkir\KirMaks\obj\Debug\KirMaks.Form1.resources
+C:\temp\test\maxkir\KirMaks\bin\Debug\KirMaks.exe
+C:\temp\test\maxkir\KirMaks\bin\Debug\KirMaks.pdb
+C:\temp\test\maxkir\KirMaks\obj\Debug\KirMaks.exe
+C:\temp\test\maxkir\KirMaks\obj\Debug\KirMaks.pdb
